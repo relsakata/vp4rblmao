@@ -1,0 +1,749 @@
+{
+  "players": {
+    "823957805747929119": {
+      "hash": "b3b01be9acb0c984d5a162fec2439911965bc965846e38690fcf786911bc7eee28c95696da05a77d08c17ac5e0e5b97a64f25a0321d55c851e516f150dd4ed5c",
+      "invulnerable": true
+    },
+    "5": "7b286c8e4d753f089214a9d0ec3251c0a9c213572c88fe0ebe2bc3cf661f276b3f169515c2907c734381c0f9f9ca9d29b6a9f3b8f16df0cb89498337b76cdc02",
+    "823957805747929119": "b3b01be9acb0c984d5a162fec2439911965bc965846e38690fcf786911bc7eee28c95696da05a77d08c17ac5e0e5b97a64f25a0321d55c851e516f150dd4ed5c",
+    "667842315364335676": "5fbe5766100c422b82545f5f821167e2edd0ebc0dfa319338f0d6f76473adde0392e94b14c70877474bafcab5cd347daae6426822c747d69c81ec14a8c2ef36b",
+    "853370987684167691": "3b21932755d61271f8994a6d01ea244dd7a064c9d65c31cb22e6e5233882c3fb4487d797365f03978577761a8514c2a27617daef8fbf6a29cb62b19f8b00cb20",
+    "111291323314671616": "a91361a785c34c433f33386ef224586b7076e1e10ebb8189fdc39b7e37822eb6c79a7d810e0d2d41e000db65f8c539ffe2144e70d48e6d3df7b66350d4699c36",
+    "349173600877674507": "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c",
+    "919665092025528441": {
+      "hash": "d8f5ba328478f13bb1d1286b2d7861909fad77ecd878e864f637b5e66622d052cfcc0f75bd7bef7f1b89a8dc8ec9117ae685f413ec2687ca6923907f111790ce",
+      "invulnerable": true
+    },
+    "704014672105308180": "82258caaa5d6491685c8bd5693ddca200b270a56e71ff82c7d561d4fbbf4e24decd89a65ce5c60e0d28865dcff854ee5aaabdf57ac0e1f7df1c2bc32450a7fb5",
+    "771130296228904960": {
+      "hash": "5e59dab210867f47cfb9b1b9ba1c92f47292a474060ad109827b33ec0373df72cde1feb6b79a733ce4f11c901fffc294c8ee34262f4f681e0907b41d2e03acae",
+      "invulnerable": true
+    },
+    "977294634877325382": "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c",
+    "16": "3a6d71d2da1e1c50ea71837261b0ced2b82b841dd7222cc1ee444655b442dc7c8eb539915da03c917bdc02fdb8cc60d4a04a134123828fd0f6a18f4e897d2fa3",
+    "17": "36c30d5ce96f3404c24747a96603ff40610883eb053189de87212c83ba5ab04d83e36f9b4c3430fdaab1599f85c39625de43e05af52c060242041c9976d203d7",
+    "18": "36c30d5ce96f3404c24747a96603ff40610883eb053189de87212c83ba5ab04d83e36f9b4c3430fdaab1599f85c39625de43e05af52c060242041c9976d203d7",
+    "19": "80d5581ae319c0cb372d8c370e3e35f5b658f87a661dfba4cda623d38529b876c2e93487fd5e5729488e31938c76bd005d17a25b572c2a1c75d460d93d4b0b5c",
+    "20": "138df8e7f7cd66944ba77b28b45cd6bbdf697b3e02621c86626c3311bb7ececad0dbabdd41c58a655187246d43b2b4ba67a05a24ebb07e9b61d9817e5bde2a97",
+    "21": "4de53933c3d9b9d621285fff0134ab2bbed2894c4f512fd52a4ac099ba983d597c510b5c191ef3823768fc39c7509b45ac8a904b832045fac718a5840c6dcbbe",
+    "22": "79ee8177c3ba43542f2176c78e1dcdb2c4d21945f57dec70ad5afd57643d0d0369af7ead2e3c688dda23b9616a82955f7bc81587480eb0e1d3fbe4ac4569e7da",
+    "23": "d765d9e184cacfef4352eb29557f8b765d3624e3b67ac2a70e08b02f36755d53dd51259242fae21037d85140bdfbf6041587740cb2effbdfa72a6bed864caf03",
+    "24": "bb9aeb9387933438a56e70d53a4d2dcc2d0541675ddc2df662bb6db58ada1077f7f5fa0fd73d1ed334775d29ad17160d5fe1a4a1ee62a6dfbe7ab4b6ce7e3aeb",
+    "25": "78a1c718b922377b4251046d0a2210783cdf945a57c301619d1ff1e4a05ad1eae0c401121ed21b1e1e9cdb1df05ad7225d19881fcdbb378fdb843938589cd3c2",
+    "26": "18be02c1ad5e180471dbcc179bdfd1ba3e54380df58b92657d0e11e8928f282b53260386c214f7a92a98d67f82c6192c8a6109d88cb24048ddc8ae0847f943e9",
+    "27": "0227a52f65164d4eb3f23a81067c921055d5ae3d68d603bb4d664ca56895dca6410050584b3896ba801fcbfa240b255a48ace1d7449425c7c5ccebea0a0e8cba",
+    "28": "def3bcf3ce36f664d601c8b024b26f1cc4974e88c86e749898aa5ec487188b06bbccd51651381ec4db86518b9ea2a6ae4607f06c02de17bf312ac695a569bbf8",
+    "30": "0fffd7be2ab7def8039fff3b9c66b3ba1fbdd2b1081c2cbc7059392923f3b0a962d30fc0b5b4711297a54378953a2d3b76d181b02771d689cf7dbdccfa0a6b88",
+    "31": "9266325863fd6c8b332fb3813c5941355680f6443c027de249e3bcecb6239b34cb12cbdc0a38f7177c3a7fdf76e98e4595f3b99ea6d13ddef0481774d6982266",
+    "32": "9118103e5caba1c65fcb8d7de52cd53ed31ee7110b3d0e1a5b6561b4a4a39c15946ebee5cc028c429fa618cb91c90591401ca43503a9eec41b702165a03b19f5",
+    "735432575140757605": {
+      "hash": "e1c9d4afdb582f904acfdcb28ecb782981987f34b8e994eb0f49059c66710302fde008bd21a1cfcac41b684740483b83a4ee357894832d4637b1591072f5f05b",
+      "invulnerable": true
+    },
+    "709094619161296939": {
+      "hash": "ff2ce8ffa02030cc58128143b6565c41a75d46921f634b42aa131a02d8d3209818e1ce86ed53a8fcb2ee9e10a29910ce7d3f9d38e17cdc037f4e0d852221c2bb",
+      "invulnerable": true
+    },
+    "548146409065545730": {
+      "hash": "b48e299fa33f533009cfc0bc56d60593398f98f2a1ec2d49e254e1b4fb7adb14ab756312774398a3d4f870908071807d0c45ea54b262fffff000e682df4727d9",
+      "invulnerable": true
+    },
+    "900134277616926780": {
+      "hash": "1bc7832678be7405f8056d74d1f712c6f5585053b908064c0d6e2b45a373c71b83fa57b01b067b0c0256dc6a08540cc54c15fbd974012b00090cad1f2012f2db",
+      "invulnerable": false
+    },
+    "539395263257903104": {
+      "hash": "3c17e4fd67db8cc3d151c58b609f36091df3fdee9241e3954beabcd5f0bb04f219a80e030891a1227c7262d749e54b6c87e07cd0171a4267be8a9eb960b997a0",
+      "invulnerable": true
+    },
+    "919495387776155698": {
+      "hash": "789663bf2a827db13c44a0868e0a0992b79108af050d8394dd9a7d04e44cbc31002b06624499daa38f334028f2f5916c8e02eda222c4596fbab9a24336176d86",
+      "invulnerable": true
+    },
+    "384718982625886208": {
+      "hash": "7e82d797eb369e60f858d4bf937f78e6ab4cf73a386c25bbdd7167d2fa2a335baada8057a689b50e251798428cd8dff48f58bbb516df63fad94f1342fd11ae94",
+      "invulnerable": true
+    }
+  },
+  "owners": {
+    "351875313388617729": "e3e40433729ed99c6b480185fb799223403e13a2a9b3c5219f71a5417794ef2192dca154c338400357bb016023e262f1449443316ac4dd6fa7a48efb07876dd1",
+    "977294634877325382": {
+      "hash": "ef95b2dcda8ae7679ef0c1b6a7781ca45ddadd2b3e760a135e45edaef9185cd7b513d16119787279d202f36716ace05435fef6d4ad4b6a2896938449d5a9a1fc",
+      "invulnerable": true
+    }
+  },
+  "chattags": {
+    "f4fe1a525f72679c55fd3772fdad8c678404fc554fab96589b1ba715cd8bbd6a1877706364e24dffd696d3bd0f3da3973550d9a02eda8d64dba75a1fe6265e5b": {
+      "NameColor": {
+        "r": 200,
+        "g": 80,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 200,
+            "g": 80,
+            "b": 255
+          },
+          "TagText": "VAPE OWNER SIMP"
+        }
+      ]
+    },
+    "733515eeec8acb3d13da68ac0c059cbfeaff5adfb08783dd66f00539c95ff15cec211e120e99414578902d08071772d5365c5d9a96b8c5f9b149fc7bc6a3d589": {
+      "NameColor": {
+        "r": 200,
+        "g": 80,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 200,
+            "g": 80,
+            "b": 255
+          },
+          "TagText": "VAPE OWNER SIMP"
+        }
+      ]
+    },
+    "b3b01be9acb0c984d5a162fec2439911965bc965846e38690fcf786911bc7eee28c95696da05a77d08c17ac5e0e5b97a64f25a0321d55c851e516f150dd4ed5c": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "GAY"
+        }
+      ]
+    },
+    "36c30d5ce96f3404c24747a96603ff40610883eb053189de87212c83ba5ab04d83e36f9b4c3430fdaab1599f85c39625de43e05af52c060242041c9976d203d7": {
+      "NameColor": {
+        "r": 200,
+        "g": 80,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 200,
+            "g": 80,
+            "b": 255
+          },
+          "TagText": "VAPE OWNER"
+        }
+      ]
+    },
+    "80d5581ae319c0cb372d8c370e3e35f5b658f87a661dfba4cda623d38529b876c2e93487fd5e5729488e31938c76bd005d17a25b572c2a1c75d460d93d4b0b5c": {
+      "NameColor": {
+        "r": 200,
+        "g": 80,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 200,
+            "g": 80,
+            "b": 255
+          },
+          "TagText": "VAPE OWNER"
+        }
+      ]
+    },
+    "138df8e7f7cd66944ba77b28b45cd6bbdf697b3e02621c86626c3311bb7ececad0dbabdd41c58a655187246d43b2b4ba67a05a24ebb07e9b61d9817e5bde2a97": {
+      "NameColor": {
+        "r": 200,
+        "g": 80,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 200,
+            "g": 80,
+            "b": 255
+          },
+          "TagText": "VAPE OWNER"
+        }
+      ]
+    },
+    "3a924234ab1d67a0b2dd03fad15549f66bdbc78def9ed3450ec1e6a032b2c7661bc742fb35f4b507af23a90fd0e4f3e538346945312f419da2e016094c35e023": {
+      "NameColor": {
+        "r": 255,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "FUTURE OWNER"
+        }
+      ]
+    },
+    "d765d9e184cacfef4352eb29557f8b765d3624e3b67ac2a70e08b02f36755d53dd51259242fae21037d85140bdfbf6041587740cb2effbdfa72a6bed864caf03": {
+      "NameColor": {
+        "r": 200,
+        "g": 80,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 200,
+            "g": 80,
+            "b": 255
+          },
+          "TagText": "VAPE OWNER"
+        }
+      ]
+    },
+    "bb9aeb9387933438a56e70d53a4d2dcc2d0541675ddc2df662bb6db58ada1077f7f5fa0fd73d1ed334775d29ad17160d5fe1a4a1ee62a6dfbe7ab4b6ce7e3aeb": {
+      "NameColor": {
+        "r": 200,
+        "g": 80,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 200,
+            "g": 80,
+            "b": 255
+          },
+          "TagText": "VAPE OWNER"
+        }
+      ]
+    },
+    "def3bcf3ce36f664d601c8b024b26f1cc4974e88c86e749898aa5ec487188b06bbccd51651381ec4db86518b9ea2a6ae4607f06c02de17bf312ac695a569bbf8": {
+      "NameColor": {
+        "r": 200,
+        "g": 80,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 200,
+            "g": 80,
+            "b": 255
+          },
+          "TagText": "VAPE OWNER"
+        }
+      ]
+    },
+    "0fffd7be2ab7def8039fff3b9c66b3ba1fbdd2b1081c2cbc7059392923f3b0a962d30fc0b5b4711297a54378953a2d3b76d181b02771d689cf7dbdccfa0a6b88": {
+      "NameColor": {
+        "r": 200,
+        "g": 80,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 200,
+            "g": 80,
+            "b": 255
+          },
+          "TagText": "VAPE OWNER"
+        }
+      ]
+    },
+    "9266325863fd6c8b332fb3813c5941355680f6443c027de249e3bcecb6239b34cb12cbdc0a38f7177c3a7fdf76e98e4595f3b99ea6d13ddef0481774d6982266": {
+      "NameColor": {
+        "r": 200,
+        "g": 80,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 200,
+            "g": 80,
+            "b": 255
+          },
+          "TagText": "VAPE OWNER"
+        }
+      ]
+    },
+    "9118103e5caba1c65fcb8d7de52cd53ed31ee7110b3d0e1a5b6561b4a4a39c15946ebee5cc028c429fa618cb91c90591401ca43503a9eec41b702165a03b19f5": {
+      "NameColor": {
+        "r": 200,
+        "g": 80,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 200,
+            "g": 80,
+            "b": 255
+          },
+          "TagText": "VAPE OWNER"
+        }
+      ]
+    },
+    "b48e299fa33f533009cfc0bc56d60593398f98f2a1ec2d49e254e1b4fb7adb14ab756312774398a3d4f870908071807d0c45ea54b262fffff000e682df4727d9": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "CUSTO VAPE OWNER"
+        }
+      ]
+    },
+    "d78428ea776821981a0527a3a7ca4cf1752291196907dc200f923c992fa4cfb4a4ff7c611bbeee4e9107a6c5d9da8280d0a2d413f09a29043d43e7d8c21133b8": {
+      "NameColor": {
+        "r": 200,
+        "g": 80,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 200,
+            "g": 80,
+            "b": 255
+          },
+          "TagText": "VAPE OWNER"
+        }
+      ]
+    },
+    "f9f4a835e604b95c1cad896251fc9ff17e09ee7605207d99c0f535ba32e0d3825767e112dd61b3705227fcbb71094421fe1c24dec4037972244fc920c03c2af3": {
+      "NameColor": {
+        "r": 200,
+        "g": 80,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 200,
+            "g": 80,
+            "b": 255
+          },
+          "TagText": "VAPE OWNER"
+        }
+      ]
+    },
+    "2ac6c38fd8932efaf35b4258189bbd2ee68aeba7a69e4e153b2941716fe03b61da1d45e2dc398bdad2fb6942612ffc7da9794c77efaa7c178b288bc9040fb4c9": {
+      "NameColor": {
+        "r": 200,
+        "g": 80,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 200,
+            "g": 80,
+            "b": 255
+          },
+          "TagText": "VAPE OWNER"
+        }
+      ]
+    },
+    "e5a2ac6834e148f214e14d63b0cb8c8aefee728e6484d9656178adda62a9e52ed5a272a1650108383db9e150e8d4beebf54e125acc8fa22249edf7888cd77e99": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "STUPIDITY"
+        }
+      ]
+    },
+    "cf8ff1cee287538da832bc47c0fe8fcb630226c9b72adce7e5f6caa2e54b5d55397de4df5f860634441aa11e73653d281eda816d88ece597a90cbc16ce3d7a83": {
+      "NameColor": {
+        "r": 200,
+        "g": 80,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 200,
+            "g": 80,
+            "b": 255
+          },
+          "TagText": "VAPE OWNER"
+        }
+      ]
+    },
+    "a59aa1d2491a486a56ad9413bf3a285c8d25fd4ab9494508fcf9911ae3c1833b1ee7a623269ee5b88a3e0383cc73e190a76180413e56cd5b93b7538a54e3857c": {
+      "NameColor": {
+        "r": 200,
+        "g": 80,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 200,
+            "g": 80,
+            "b": 255
+          },
+          "TagText": "VAPE OWNER"
+        }
+      ]
+    },
+    "ec8dd91e9f3644e0c4c22a0caa97cc8329b09b4916a82726f29f806cf447c821a1b59f4aed35ddc7c3a6892aae5ae3775fe753cf419bba7d1c63f5214ef14e80": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "STUPIDITY"
+        }
+      ]
+    },
+    "5e4199d19ccf4350fed00844d472f99db46effb7136c656640093fd87e44d24a0e55ee4b3df623e60cb7c1f419533f430d0dd9e6dadb65c8b74f60adda2b3ef0": {
+      "NameColor": {
+        "r": 200,
+        "g": 80,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 200,
+            "g": 80,
+            "b": 255
+          },
+          "TagText": "VAPE OWNER"
+        }
+      ]
+    },
+    "d544f1f85b2b4f05b9d90346989451bd1a0e5f6de37349a0fdf394787ae77e0fc9308fb6804562d626be8c6f29248daa3a673f882d0ad3a9aec56837308e03e7": {
+      "NameColor": {
+        "r": 200,
+        "g": 80,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 200,
+            "g": 80,
+            "b": 255
+          },
+          "TagText": "VAPE OWNER"
+        }
+      ]
+    },
+    "8f94d1090cc02e869b4b47d18d6c25b3ad4628e8c6df14ec53f05d3340c947057399bb57977d2749c00084227007741cded015e02f8b56f8b32ef9cb4e4b5980": {
+      "NameColor": {
+        "r": 200,
+        "g": 80,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 200,
+            "g": 80,
+            "b": 255
+          },
+          "TagText": "VAPE OWNER"
+        }
+      ]
+    },
+    "4e6bc64627b4b9cfde267ed18951d274e988efbdb1c0e63eb30a5562d388b8d6052b22de691437e98b3ee2f5ead8b49a61d369b2f8267e0c9276ec263000ab26": {
+      "NameColor": {
+        "r": 255,
+        "g": 0,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 0,
+            "b": 0
+          },
+          "TagText": "FUTURE OWNER"
+        }
+      ]
+    },
+    "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c": {
+      "NameColor": {
+        "r": 255,
+        "g": 0,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 0,
+            "b": 0
+          },
+          "TagText": "FUTURE OWNER"
+        }
+      ]
+    },
+    "ced1c48964a6e371be587358d54841f55fe3543608719c115dadf08d1fae972905ec6ca72706cd4ce14c6b9add91350768639626b8bea8ff6143c1ad266a029b": {
+      "NameColor": {
+        "r": 200,
+        "g": 80,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 200,
+            "g": 80,
+            "b": 255
+          },
+          "TagText": "VAPE OWNER"
+        }
+      ]
+    },
+    "fad125d724e091d9986b5e5b118d307b466ad85409ce4d0c6a525ba0fb852887c5b3bf70eab5daea612afc5e9891da608f29a78d87dfa17b6f401d66a7b78427": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "STUPIDITY"
+        }
+      ]
+    },
+    "3c17e4fd67db8cc3d151c58b609f36091df3fdee9241e3954beabcd5f0bb04f219a80e030891a1227c7262d749e54b6c87e07cd0171a4267be8a9eb960b997a0": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 170
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 255,
+            "b": 170
+          },
+          "TagText": "SHIT BOT"
+        }
+      ]
+    },
+    "61f7184e1949eb1481fd230f3fd6ec964e3daa1303a707ac9ea342f83e56a9a89ec2a4de4303a3c824607749ab53f830bf215fceeb05e02796e269e001cf0882": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "STUPIDITY"
+        }
+      ]
+    },
+    "b168ca2a604688ca33d382e0f8803967fa40f0ab05cc4a24b7a7d61f4b2b9a746530fcac228751c108bdbf7f2d06226cdb5ea4513c54dd61a6e4774eafa200be": {
+      "NameColor": {
+        "r": 255,
+        "g": 0,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 0,
+            "b": 0
+          },
+          "TagText": "FUTURE OWNER"
+        }
+      ]
+    },
+    "a20a72e8e9591dd8607eac1a2874a4af390a612c15633620210991f196a68987f16db9f43c74f6881ae747e7f56f9e00ecd7847ecc4a098d73a8a2dd5143aa6f": {
+      "NameColor": {
+        "r": 200,
+        "g": 80,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 200,
+            "g": 80,
+            "b": 255
+          },
+          "TagText": "VAPE OWNER"
+        }
+      ]
+    },
+    "920a7aa3a70b79476ee5caaef148037c83b22aa5b684f3944c949c1547c4944b2de28e275f0c95b8d17c381e0734e772763c5ec780d4c54d7a45e6e435615d09": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "STUPIDITY"
+        }
+      ]
+    },
+    "e1c9d4afdb582f904acfdcb28ecb782981987f34b8e994eb0f49059c66710302fde008bd21a1cfcac41b684740483b83a4ee357894832d4637b1591072f5f05b": {
+      "NameColor": {
+        "r": 255,
+        "g": 0,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 0,
+            "b": 0
+          },
+          "TagText": "FUTURE OWNER"
+        }
+      ]
+    },
+    "ff2ce8ffa02030cc58128143b6565c41a75d46921f634b42aa131a02d8d3209818e1ce86ed53a8fcb2ee9e10a29910ce7d3f9d38e17cdc037f4e0d852221c2bb": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "STUPIDITY"
+        }
+      ]
+    }
+  },
+  "specialusers": {
+    "709094619161296939": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 0
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 0,
+          "g": 255,
+          "b": 0
+        },
+        "TagText": "STUPIDITY"
+      }
+    },
+    "735432575140757605": {
+      "NameColor": {
+        "r": 255,
+        "g": 0,
+        "b": 0
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 255,
+          "g": 0,
+          "b": 0
+        },
+        "TagText": "FUTURE OWNER"
+      }
+    },
+    "919495387776155698": {
+      "NameColor": {
+        "r": 200,
+        "g": 80,
+        "b": 255
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 200,
+          "g": 80,
+          "b": 255
+        },
+        "TagText": "VAPE OWNER"
+      }
+    },
+    "548146409065545730": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 0
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 0,
+          "g": 255,
+          "b": 0
+        },
+        "TagText": "CUSTOM VAPE OWNER"
+      }
+    },
+    "539395263257903104": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 170
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 0,
+          "g": 255,
+          "b": 170
+        },
+        "TagText": "SHIT BOT"
+      }
+    }
+  }
+}
